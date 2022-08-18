@@ -34,10 +34,10 @@ The user can test this application by running npm run test in the terminal.
 read-me
 
 ## Github Username:
-https://github.com/marymc13
+marymc13
 
 ## Github Link:
-marymc13
+https://github.com/marymc13
 
 ## Email:
 marymc135@hotmail.com
@@ -48,4 +48,4 @@ https://watch.screencastify.com/v/0cGjnbmlFUeEM6Cu69Zm
 ## Repository Link
  https://marymc13.github.io/read-me/
 
-Copyright 2022 by https://github.com/marymc13
+Copyright 2022 by https:marymc13
